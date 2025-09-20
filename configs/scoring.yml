@@ -1,0 +1,22 @@
+minutes_under_60: 1
+minutes_60_or_more: 2
+goal_points:
+  GK: 6
+  DEF: 6
+  MID: 5
+  FWD: 4
+assist: 3
+clean_sheet:
+  GK: 4
+  DEF: 3
+  MID: 2
+  FWD: 1
+yellow: -1
+red: -3
+penalty_miss: -2
+penalty_won: 2
+goals_conceded_penalty:
+  GK_DEF_per_2: -2
+  MID_FWD_per_2: -1
+gk_save_per_2: 1
+#extend this with DAZN/statistical points
